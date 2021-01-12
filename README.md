@@ -43,7 +43,7 @@ print("Your quantum dice give the result:", dice_nb )
 ## Quantum_dice2
 This programm is the same as __quantum_Dice__. The only difference is that it allow you to chose the size of the dice.
 You only need to add some few code to allow you to change the size of the dice.
-You can see the notebook of the code [here]()
+You can see the notebook of the code [here](https://github.com/quantumporium/quantum-dice/blob/main/Quantum_dice_2.ipynb)
 
 ###### Add this at the top of the code.
 ```python
