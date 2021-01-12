@@ -8,7 +8,7 @@ Repositery that hold a simple quantum program made with IBM Q and qiskit.
 In the notebook that hold the code that simulate a quantum dice with an finite number of side.
 You can not change the number of side the dice has. You can only roll the dice.
 
-Here a short version of the code but you can find the entire notebook [here]().
+Here a short version of the code but you can find the entire notebook [here](https://github.com/quantumporium/quantum-dice/blob/main/Quantum_Dice.ipynb).
 
 ```python
 from functools import reduce
@@ -76,4 +76,5 @@ dice_circuit.draw()
 
 #### Ressource and Inspiration.
 [Qiskit documentation made by IBM](https://qiskit.org/textbook/preface.html)
+
 [Medium article that insprire me to make this repositery](https://medium.com/rigetti/how-to-write-a-quantum-program-in-10-lines-of-code-for-beginners-540224ac6b45)
