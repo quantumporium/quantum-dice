@@ -73,3 +73,7 @@ dice_circuit.measure(range(dice_size), range(dice_size))
 dice_circuit.draw()
 
 ```
+
+#### Ressource and Inspiration.
+[Qiskit documentation made by IBM](https://qiskit.org/textbook/preface.html)
+[Medium article that insprire me to make this repositery](https://medium.com/rigetti/how-to-write-a-quantum-program-in-10-lines-of-code-for-beginners-540224ac6b45)
