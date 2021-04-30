@@ -1,8 +1,7 @@
-# quantum dice
+# Quantum dice
 ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
 
-
-Repositery that hold a simple quantum program made with IBM Q and qiskit.
+Achieved true random number generator trought a simple quantum algorithm.
 
 ## Quantum_Dice
 In the notebook that hold the code that simulate a quantum dice with an finite number of side.
